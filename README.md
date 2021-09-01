@@ -12,10 +12,14 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=for-the-badge&logo=JQuery)
 ![Mocha](https://img.shields.io/badge/-Mocha-brown?style=for-the-badge&logo=Mocha)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=Three.js)
-![Node.js](https://img.shields.io/badge/-Node.js-brown?style=for-the-badge&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=Node.js)
 ![MySQl](https://img.shields.io/badge/-MySQl-white?style=for-the-badge&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b)
 ![Qt](https://img.shields.io/badge/-Qt-white?style=for-the-badge&logo=Qt)
 
 
-Contact
+## Follow me
+
+[![linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anton-zakharov-a4b136202/)
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCKuvqIrulhjh-Qf1of3mpRg/featured)
+[![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/GraveRob)
