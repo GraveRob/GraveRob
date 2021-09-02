@@ -23,3 +23,5 @@
 [![linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anton-zakharov-a4b136202/)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCKuvqIrulhjh-Qf1of3mpRg/featured)
 [![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/GraveRob)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraveRob&show_icons=true&theme=great-gatsby)
+](https://github.com/GraveRob/github-readme-stats)
