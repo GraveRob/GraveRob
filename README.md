@@ -1,7 +1,7 @@
 [![Header](https://github.com/GraveRob/GraveRob/blob/main/assets/glitch.png)](https://www.linkedin.com/in/anton-zakharov-a4b136202/)
 
 ## About me
-Junior web and soft developer - Anton Zakharov, present !
+Full Stack Developer - Anton Zakharov, present !
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
