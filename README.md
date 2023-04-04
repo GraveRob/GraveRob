@@ -27,6 +27,6 @@ Junior web and soft developer - Anton Zakharov, present !
 
 ## My stats
 
-![GraveRob's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraveRob&show_icons=true&theme=great-gatsby)
+![GraveRob's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraveRob&show_icons=true&theme=great-gatsby&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraveRob&theme=great-gatsby&layout=compact)
